@@ -1,0 +1,24 @@
+{
+  "name": "speedpost-resi-extrap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cdw1p/Speedpost-Resi-Extrap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cdw1p/Speedpost-Resi-Extrap/issues"
+  },
+  "homepage": "https://github.com/cdw1p/Speedpost-Resi-Extrap#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "colors": "^1.4.0",
+    "fs-extra": "^9.1.0"
+  }
+}
